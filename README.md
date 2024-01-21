@@ -1,3 +1,45 @@
+# ここにタイトルを入れる
+はじめてのlaravel
+
+## DEMO
+
+  - NA
+
+## 紹介と使い方
+
+  - 1/20学んだlaravelについて復習もかねて実施
+
+## 工夫した点
+
+  - 基礎中心であるため、卒制に向けて今後理解を深める
+
+## 苦戦した点
+
+  - git hubへのアップロードがうまくいかずに放置プレイをずっとしてしまっていた
+
+## 参考にした web サイトなど
+
+  - NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
